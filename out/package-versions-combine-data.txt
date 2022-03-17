@@ -1,0 +1,15 @@
+R version 4.1.2 (2021-11-01)
+Platform: i386-w64-mingw32/i386 (32-bit)
+Running under: Windows 10 x64 (build 19044)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252  LC_CTYPE=English_United Kingdom.1252    LC_MONETARY=English_United Kingdom.1252
+[4] LC_NUMERIC=C                            LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.1.2 tools_4.1.2   
